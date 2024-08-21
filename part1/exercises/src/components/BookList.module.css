@@ -1,0 +1,14 @@
+.bookHeading{
+    color: rgb(69, 96, 126);
+    font-size: 1.5vw;
+}
+
+.bookText {
+    font-style: italic;
+    font-size: 1vw;
+}
+
+.div2 {
+    width: 20px;
+    height: 20px;
+}

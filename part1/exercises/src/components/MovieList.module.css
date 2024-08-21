@@ -1,10 +1,11 @@
 .movieText {
-   color: rgb(52, 76, 52);
+   color: rgb(79, 114, 79);
    text-align: left;
    font-size: 1vw;
 }
 
 .movieHeading {
-   color: rgb(52, 76, 52);
+   color: rgb(79, 114, 79);
    text-align: left;
+   font-size: 1.5vw;
 }
